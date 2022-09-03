@@ -1,4 +1,4 @@
-# bh1750
+# BH1750
 Kaluma library for BH1750 light sensor
 
 ## Install
