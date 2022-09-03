@@ -71,7 +71,7 @@ module.exports = class BH1750 {
   }
 
   getResult() {
-    return Number(this.bus.read(2, this.addr).reduce((memo, i) => memo + ('0' + i.toString(16)).slice(-2), '0x'));
+    return Number(this.bus.read(2, this.addr).reduce((p, i) => p + ('0' + i.toString(16)).slice(-2), '0x'));
   }
 
   oneTimeMeasurement(mode, additionalTime = 0) {
