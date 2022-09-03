@@ -1,0 +1,22 @@
+{
+  "name": "bh1750",
+  "version": "1.0.0",
+  "description": "Kaluma library for BH1750 light sensor",
+  "main": "index.js",
+  "author": "Ross Pashko",
+  "license": "ISC",
+  "keywords": [
+    "kaluma",
+    "light sensor",
+    "i2c",
+    "BH1750"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/"
+}
