@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/rossdoker/bh1750"
   },
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/rossdoker/bh1750"
   },
-  "homepage": "https://github.com/"
+  "homepage": "https://github.com/rossdoker/bh1750"
 }
