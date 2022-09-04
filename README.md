@@ -9,7 +9,7 @@ npm install https://github.com/rossdoker/bh1750
 ## Wiring
 | Pi Pico | BH1750 |
 | ------ | ------ |
-| 3V3 | VCC |
+| VBUS | VCC |
 | GND | GND |
 | SCL | SCL |
 | SDA | SDA |
